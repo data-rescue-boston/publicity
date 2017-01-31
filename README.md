@@ -5,4 +5,4 @@ Collection of publicity-related documents for DataRescue-Boston
 Contains the illustrator files and renders for DataRescue-Boston 
 
 # Licenses
-See [LICENSES](LICENSES.MD) file for usage and license
+See [LICENSE](LICENSE.MD) file for usage and license
