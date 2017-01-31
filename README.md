@@ -1,2 +1,8 @@
-# publicity
-collection of publicity-related documents for data-rescue-boston
+# Publicity
+Collection of publicity-related documents for DataRescue-Boston
+
+## Graphics
+Contains the illustrator files and renders for DataRescue-Boston 
+
+# Licenses
+See [LICENSES](LICENSES.MD) file for usage and license
