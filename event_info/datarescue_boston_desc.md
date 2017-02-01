@@ -3,4 +3,3 @@ DataRescue Boston is a series of events and efforts organized by professors, res
 To get involved:
 - Attend or volunteer at one of our upcoming events
 - Sponsor an event or donate to EDGI
-- Join our DataRescue Boston facebook group to stay updated 
