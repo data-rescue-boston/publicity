@@ -4,5 +4,14 @@ Collection of publicity-related documents for DataRescue-Boston
 ## Graphics
 Contains the illustrator files and renders for DataRescue-Boston 
 
-# Licenses
-See [LICENSE](LICENSE.MD) file for usage and license
+### Graphics License
+See [LICENSE](graphics/LICENSE.MD) file for usage and license
+
+## Event Descriptions
+TBA
+
+## Press releases
+TBA
+
+## Links
+TBA
