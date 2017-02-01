@@ -1,11 +1,10 @@
 # Publicity
 Collection of publicity-related documents for DataRescue-Boston
 
+Each subfolder contains licenses describing usage rights
+
 ## /graphics
 Contains the illustrator files and renders for DataRescue-Boston 
-
-### License
-See [LICENSE](graphics/LICENSE.MD) file for usage and license
 
 ## /event_info
 Contains descriptions of the events for FB, Eventbrite, etc
