@@ -1,17 +1,17 @@
 # Publicity
 Collection of publicity-related documents for DataRescue-Boston
 
-## Graphics
+## /graphics
 Contains the illustrator files and renders for DataRescue-Boston 
 
-### Graphics License
+## License
 See [LICENSE](graphics/LICENSE.MD) file for usage and license
 
-## Event Descriptions
-TBA
+## /event_info
+Contains descriptions of the events for FB, Eventbrite, etc
 
-## Press releases
-TBA
+## /press
+Contains blog posts/writeups, press releases
 
-## Links
-TBA
+## /links
+Contains links to event pages/social media/etc
