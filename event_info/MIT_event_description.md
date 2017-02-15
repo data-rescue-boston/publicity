@@ -2,7 +2,7 @@
 
 [DataRescue at MIT](https://www.facebook.com/events/1625484311094707)
 
-Feb 18th, 37-252, 8:30am-5pm
+Feb 18th, Walker Memorial, 8:30am-5pm
 
 DataRescue at MIT is a hackathon focused on identifying, downloading, processing, and mirroring federal research data at risk of being taken down or obscured by the current administration. The event is being hosted by MIT ACSES, MIT Libraries, and EDGI. 
 
